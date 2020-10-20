@@ -35,7 +35,7 @@ function printMyName($myName){
 }
 
 printMyName("Rado");
-printMyName("penaaaa<br>");
+printMyName("pena<br>");
 
 function modifyMyName($myName){
     echo "<br>My name is ".$myName;
